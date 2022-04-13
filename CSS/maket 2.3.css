@@ -1,0 +1,251 @@
+  /*4-qator*/
+.container .qator4{             /*level 4*/
+	width: 1100px;
+	height: 370px;
+	background-color: #ebe9d8;
+
+}
+
+
+.container .qator4 .chap{          /*yozuvli chap tomon*/
+	width: 280px;
+	height: 330px;
+	margin-left: 110px;
+	margin-top: 20px;
+	float: left;
+}
+.container .qator4 .markaz{         /*yozuvli markaz tomon*/
+	width: 280px;  
+	height: 330px;
+	margin-top: 20px;
+	margin-left: 20px;
+	float: left;
+}
+.container .qator4 .ong{            /*yozuvli ong tomon*/
+	width: 290px;
+	height: 330px;
+	margin-top: 20px;
+	margin-left: 20px;
+	float: left;
+}
+
+
+
+ /*4-qatordi chap tomoni*/
+.container .qator4 .chap .text1{
+	width: 280px;
+	height: 30px;
+	margin-top: 10px;
+	font-size: 28px;
+	font-family: "Myriad Variable Concept";
+}
+.container .qator4 .chap .text2{
+	width: 280px;
+	height: 40px;
+	color: #792913;
+	font-size: 20px;
+	font-family: "Myriad Variable Concept";
+}
+.container .qator4 .chap .text3{
+	width: 280px;
+	height: 130px;
+	font-size: 15px;
+	font-family: "Myriad Variable Concept";
+}
+.container .qator4 .chap .text4{
+	width: 280px;
+	height: 100px;
+	margin-top: 10px;
+}
+.container .qator4 .chap .text4 .ras{
+	height: 100px;
+	width: 100px;
+	background-image: url(../rasmlar/rasm3.png);
+	background-size: 100px 100px;	
+	float: left;
+}
+.container .qator4 .chap .text4 .tex{
+	height: 85px;
+	width: 100px;
+	float: left;
+	font-size: 16px;
+	font-family: "Myriad Variable Concept";
+	text-align: center;
+	margin-top: 10px;
+}
+
+
+
+ /*4-qatordi markazi */
+.container .qator4 .markaz .text5{
+	width: 280px;
+	height: 30px;
+	margin-top: 10px;
+	font-size: 28px;
+	font-family: "Myriad Variable Concept";
+}
+.container .qator4 .markaz .text6{
+	width: 280px;
+	height: 40px;
+	color: #792913;
+	font-size: 20px;
+	font-family: "Myriad Variable Concept";
+}
+.container .qator4 .markaz .text7{
+	width: 280px;
+	height: 130px;
+	font-size: 15px;
+	font-family: "Myriad Variable Concept";
+}
+
+
+
+/*4-qatordi o'ng tomoni*/
+.container .qator4 .ong .text8{
+	width: 280px;
+	height: 30px;
+	margin-top: 10px;
+	font-size: 28px;
+	font-family: "Myriad Variable Concept";
+}
+.container .qator4 .ong .text9{
+	width: 280px;
+	height: 40px;
+	color: #792913;
+	font-size: 20px;
+	font-family: "Myriad Variable Concept";
+}
+.container .qator4 .ong .text10{
+	width: 290px;
+	height: 100px;
+	font-size: 19px;
+}
+.container .qator4 .ong .text11{
+	width: 250px;
+	height: 80px;
+	margin: 13px;
+	padding: 5px;
+	border: 1px solid black;
+	background-color: #bf3a16;
+	border-radius: 4px;
+	font-family: "Myriad Pro";
+	font-size: 25px;
+	color: white;
+	transition: all 2s;	
+}
+.container .qator4 .ong .text11:hover{
+	transform: rotate(360deg) scaleX(1.8);
+}
+
+
+
+/*5-qator*/
+.container .qator5{             /*level 5*/
+	width: 1100px;
+	height: 320px;
+	background-color: #d2ceb7;
+}
+
+
+
+.container .qator5 .ustun1{          /*yozuvli chap tomon*/
+	width: 280px;
+	height: 330px;
+	margin-left: 110px;
+	margin-top: 20px;
+	float: left;
+}
+.container .qator5 .ustun2{         /*yozuvli markaz tomon*/
+	width: 280px;  
+	height: 330px;
+	margin-top: 20px;
+	margin-left: 20px;
+	float: left;
+}
+.container .qator5 .ustun3{            /*yozuvli o'ng tomon*/
+	width: 290px;
+	height: 330px;
+	margin-top: 20px;
+	margin-left: 20px;
+	float: left;
+}
+
+.container .qator5 .ustun1 .quater1{
+	width: 280px;
+	height: 80px;
+	margin-top: 10px;
+	font-size: 29px;
+	font-family: "Myriad Variable Concept";
+}
+.container .qator5 .ustun1 .quater2{
+	width: 280px;
+	height: 110px;
+	font-size: 18px;
+	font-family: "Georgia";
+}
+.container .qator5 .ustun1 .quater3{
+	width: 280px;
+	height: 60px;
+	font-family: "Georgia";
+}
+
+.container .qator5 .ustun2 .quater4{
+	width: 280px;
+	height: 80px;
+	margin-top: 10px;
+	font-size: 29px;
+	font-family: "Myriad Variable Concept";
+}
+.container .qator5 .ustun2 .quater5{
+	width: 280px;
+	height: 110px;
+	font-size: 18px;
+	font-family: "Georgia";
+}
+.container .qator5 .ustun2 .quater6{
+	width: 280px;
+	height: 60px;
+	font-family: "Georgia";
+}
+
+.container .qator5 .ustun3 .quater7{
+    width: 280px;
+	height: 80px;
+	margin-top: 10px;
+	font-size: 29px;
+	font-family: "Myriad Variable Concept";
+}
+.container .qator5 .ustun3 .quater8{
+	width: 290px;
+	height: 90px;
+	font-size: 18px;
+	font-family: "Georgia";
+}
+.container .qator5 .ustun3 .quater9{
+	width: 280px;
+	height: 60px;
+	font-family: "Georgia";
+}
+
+
+
+.container .madein{
+	width: 900px;
+	height: 70px;
+}
+.container .madein .blackheader{
+	margin-left: 100px;
+	width: 140px;
+	height: 20px;
+	font-size: 16px;
+	font-family: "Georgia";
+	float: left;
+}
+.container .madein .redheader{
+	width: 150px;
+	height: 20px;
+	font-size: 16px;
+	font-family: "Georgia";
+	float: left;
+}
+

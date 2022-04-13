@@ -1,0 +1,247 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{                    /* (Maket 2)*/
+	width: 1100px;
+	height: 1400px;
+	margin: 0 auto;
+}
+.container .qator1{               /*level 1*/
+	width: 1092px;
+	height: 80px;
+	/*border: 2px solid blue;*/
+}
+
+
+.container .qator1 .leftqator1{        /*1-qatorni chap tomoni*/
+	width: 170px;
+	height: 50px;
+	border: 1px solid black;
+	margin-left: 114px;
+	float: left;
+	margin-top: 30px;
+	font-size: 30px;
+	background-color: #bf3a16;
+	color: white;
+	text-align: center;
+	transition: all 2s;
+	transform: translateX(0px);
+}
+.container .qator1 .leftqator1:hover{
+	transform: translateX(350px);
+}
+.container .qator1 .rightqator1{        /*1-qatorni o'ng tomoni*/
+	width: 450px;
+	height: 40px;
+	float: left;
+	margin-left: 330px;
+    margin-top: 40px;
+	font-size: 20px;
+	font-family: "Georgia";
+	color: #792913;
+	text-align: center;
+	font-style: italic;
+}
+
+
+ /*2-qator*/
+.container .qator2{               /*level 2*/
+	width: 1095px;
+	height: 60px;
+	border: 2px solid white;
+}
+.container .qator2 .left{              /*menyuli qator*/
+	width: 108px;
+	height: 50px;
+	border: 1px solid #d8d6c9;
+	float: left;
+	margin-top: 5px;
+	margin-left: 1px;
+	background-color: #ebe9d8;
+	transition: all 1s;
+	transform: rotate(00deg);
+}
+.container .qator2 .left:hover{
+	transform: rotate(50deg);
+}
+.container .qator2 .l1{
+	width: 170px;
+	height: 50px;
+	border: 1px solid #d8d6c9;
+	float: left;
+	margin-top: 5px;
+	margin-left: 2px;
+	background-color: #d4c69c;
+	font-size: 20px;
+	font-family: "Georgia";
+	font-style: bold;
+	text-align: center;
+	transition: all 1s;
+	transform: rotate(00deg);
+}
+.container .qator2 .l1:hover{
+	transform: rotate(45deg);
+}
+.container .qator2 .l2{
+	width: 170px;
+	height: 50px;
+	border: 1px solid #d8d6c9;
+	float: left;
+	margin-top: 5px;
+	margin-left: 2px;
+	background-color: #ebe9d8;
+	font-size: 20px;
+	font-family: "Georgia";
+	font-style: bold;
+	text-align: center;
+	transition: all 1s;
+	transform: rotate(00deg);
+}
+.container .qator2 .l2:hover{
+	transform: rotate(45deg);
+}
+.container .qator2 .l3{
+	width: 170px;
+	height: 50px;
+	border: 1px solid #d8d6c9;
+	float: left;
+	margin-top: 5px;
+	margin-left: 2px;
+	background-color: #ebe9d8;
+	font-size: 20px;
+	font-family: "Georgia";
+	font-style: bold;
+	text-align: center;
+	transition: all 1s;
+	transform: rotate(00deg);
+}
+.container .qator2 .l3:hover{
+	transform: rotate(45deg);
+
+}
+.container .qator2 .l4{
+	width: 170px;
+	height: 50px;
+	border: 1px solid #d8d6c9;
+	float: left;
+	margin-top: 5px;
+	margin-left: 2px;
+	background-color: #ebe9d8;
+	font-size: 20px;
+	font-family: "Georgia";
+	font-style: bold;
+	text-align: center;
+	transition: all 1s;
+	transform: rotate(00deg);
+}
+.container .qator2 .l4:hover{
+	transform: rotate(45deg);
+}
+.container .qator2 .l5{
+	width: 170px;
+	height: 50px;
+	border: 1px solid #d8d6c9;
+	float: left;
+	margin-top: 5px;
+	margin-left: 2px;
+	background-color: #ebe9d8;
+	font-size: 20px;
+	font-family: "Georgia";
+	font-style: bold;
+	text-align: center;
+	transition: all 1s;
+	transform: rotate(00deg);
+}
+.container .qator2 .l5:hover{
+	transform: rotate(45deg);
+}
+.container .qator2 .right{
+	width: 110px;
+	height: 50px;
+	border: 1px solid #d8d6c9;
+	float: left;
+	margin-top: 5px;
+	margin-left: 2px;
+	background-color: #ebe9d8;
+	transition: all 1s;
+	transform: rotate(00deg);
+}
+.container .qator2 .right:hover{
+	transform: rotate(50deg);
+}
+
+
+
+
+.container .qator3{               /*level 3*/
+	width: 1095px;
+	height: 400px;
+}
+.container .qator3 .leftb{         
+	width: 430px;
+	height: 395px;
+	margin-left: 5px;
+	float: left;
+}
+
+.container .qator3 .leftb .b1{
+	width: 200px;
+	height: 35px;
+	margin-left: 100px;
+	margin-top: 60px;
+	color: #b08475;
+	font-size: 28px;
+	font-family: "MV Boli";
+	font-style: italic;
+	text-align: center;
+}
+.container .qator3 .leftb .b2{
+	width: 270px;
+	height: 50px;
+	color: black;
+	margin-left: 100px;
+	font-size: 70px;
+	font-family: "Bell MT";
+	font-style: italic, bold;
+	text-align: center;
+}
+.container .qator3 .leftb .b3{
+	width: 240px;
+	height: 60px;
+	margin-left: 150px;
+	color: #bf3a16;
+	font-size: 70px;
+	font-family: "Bell MT";
+	font-style: italic, bold;
+	text-align: center;
+}
+.container .qator3 .leftb .b4{
+	width: 250px;
+	height: 60px;
+	margin-left: 150px;
+	color: #424241;
+	font-size: 27px;
+	font-family: "Myriad Variable Concept";
+	text-align: center;
+}
+
+
+.container .qator3 .rightb{
+	width: 530px;
+	height: 400px;
+	float: left;
+	margin-left: 10px;
+
+}
+.container .qator3 .rightb .kattarasm{
+	width: 530px;
+	height: 399px;
+	background-image: url("../rasmlar/maket 2 rasm.png");
+	background-size: 530px 399px;
+	transition: all 2s;
+	transform: scaleX(1);
+}
+.container .qator3 .rightb .kattarasm:hover{
+	transform: scaleX(1.7);
+}
